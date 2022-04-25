@@ -47,9 +47,8 @@ Recimo da se funkcija zove divide, poziv funkcije bi bio divide([1, 2, 3, 4, 5, 
 Primjer: recimo da se funkcija zove find, poziv bi izgledao ovako: find([2, 7, 5, 3, 8, 1], 5), funckija ce vratiti boolean true jer broj 5 se nalazi u nizu. NE koristiti includes() funkciju.
 
 10. Napisati program koji ispisuje ispod prikazani pattern. Program treba da pita korisnika od koliko redova se trokut sastoji. 
-
-1  2  3  4  5
-   2  3  4  5
-      3  4  5
-         4  5
-            5
+12345
+ 2345
+  345
+   45
+    5
